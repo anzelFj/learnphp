@@ -1,4 +1,4 @@
 <?php
 $var = new \stdClass();
-$var-> = 'Kaspar';
+$var->name = 'Kaspar';
 var_dump ($var);
